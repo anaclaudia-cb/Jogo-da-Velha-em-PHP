@@ -48,5 +48,5 @@ Quando um dos participantes faz uma linha, ganha o jogo;
 * Pergunta se deseja jogar novamente
 
 
-Jogo feito com base na aula do Code Easy do Youtube: [link](https://www.youtube.com/watch?v=ZaN1G4-NvpU)
+> Jogo feito com base na aula do Code Easy do Youtube: [link](https://www.youtube.com/watch?v=ZaN1G4-NvpU)
     
