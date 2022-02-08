@@ -3,7 +3,7 @@
 Para clonar um repositório já existente você deve usar o comando: 
 
 ```
-git clone https://github.com/anaclaudia-cb/Calculator.git
+git clone https://github.com/anaclaudia-cb/Jogo-da-Velha-em-PHP.git
 ```
 Comando para executar no terminal
 
